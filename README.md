@@ -20,9 +20,11 @@ in restaurants.
 #Requirements 
 1. Each restaurant, in the provided stores.txt must have a unique identifier and login, that can be authenticated. How you
 implement this is up to you (but please hash the passwords :) )
-2. Ability to write to a database the daily inventory count for each item at a restaurant, in the provided items list.
-3. Simple user Interface for recording inventory counts.
+2. Ability to write the daily inventory count for each item at a restaurant, in the provided items list to a database.
+3. Simple user interface for recording inventory counts.
 4. Ability to view previous inventory counts sorted by date and item.
 5. BONUS: Currently, managers import inventory as standard units, such as 1 package. You are given a list of units in ounces, mL,
 etc for each item. Have the app convert these units for displaying in Requirement 4.
+
+Please submit with a github repo emailed to josh@cavagrill.com and jordan.bramble@cavagrill.com
 
