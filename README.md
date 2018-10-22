@@ -3,7 +3,7 @@ This exercise is meant as a way to produce code for the Cava Grill team to revie
 comparable, open source, they may choose to send that along rather than completing the exercise below. As a disclaimer, all the
 data in this exercise is fake, and does not represent the full picture of Cava Grill operations.
 
-#Task
+# Task
 At Cava, restaurant managers need the ability to inventory our products for their store. To do this, we have restaurant logins,
 product lists and product units. A manager takes a count of each item in the list, then records them into the app.
 Hypothetically, our app is pretty old and needs to be updated into Elixir and React. A manager should be able to log in using
@@ -17,7 +17,7 @@ However, for any major design or tech decisions you make, please justify them in
 Note 2: This is a hypothetical scenario, the code you produce for this exercise will never be used in any of our inventory tools
 in restaurants.
 
-#Requirements 
+# Requirements 
 1. Each restaurant, in the provided stores.txt must have a unique identifier and login, that can be authenticated. How you
 implement this is up to you (but please hash the passwords :) )
 2. Ability to write the daily inventory count for each item at a restaurant, in the provided items list to a database.
